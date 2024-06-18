@@ -74,7 +74,7 @@ body::before {
     }
 
     to {
-        margin-left: 2%;
+        margin-left: 3%;
         width: 300%;
     }
 }
@@ -95,7 +95,7 @@ body::before {
     }
 
     to {
-        margin-top: 10%;
+        margin-top: 5%;
         width: 300%;
     }
 }
